@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>my first page</h1>
+<p>This paragraph
+    contains a lot of lines
+    in the source code,
+    but the browser
+    ignores it.</p>
+<a href="https://www.w3schools.com/html/html_paragraphs.asp">open this</a>
+<img src="https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?cs=srgb&dl=bloom-blooming-blossom-462118.jpg&fm=jpg">
+<img src="https://pixy.org/src/21/219269.jpg">
+</body>
+</html>
